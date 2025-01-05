@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
+    <h1>DevOps Project Using Jenkins, Ansible, Maven, Apache Tomcat and AWS</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
