@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>DevOps Project Using Jenkins, Ansible, Maven, Apache Tomcat and AWS</h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>Fill the details below to Get Started !</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
