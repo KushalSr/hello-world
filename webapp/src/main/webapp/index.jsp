@@ -1,7 +1,8 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>DevOps Project Using Jenkins, Ansible, Maven, Apache Tomcat, Docker, Kubernetes and AWS</h1>
-    <p>Fill the details below to Get Started !</p>
+	  <h1>Complete DevOps Project with CI/CD Pipeline</h1>
+	  <h2>Jenkins, Ansible, Maven, Apache Tomcat, Docker, Kubernetes and AWS</h2>
+    <p>Form to get started! </p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
