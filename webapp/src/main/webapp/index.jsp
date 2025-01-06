@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
 	  <h1>Complete DevOps Project with CI/CD Pipeline</h1>
-	  <h2>Jenkins, Ansible, Maven, Apache Tomcat, Docker, Kubernetes and AWS</h2>
+	  <h2>Technologies Used : Jenkins, Ansible, Maven, Apache Tomcat, Docker, Kubernetes and AWS</h2>
     <p>Form to get started! </p>
     <hr>
      
